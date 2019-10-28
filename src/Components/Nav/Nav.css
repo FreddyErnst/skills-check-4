@@ -1,0 +1,40 @@
+.Nav-Container {
+    height: 100vh;
+    width: 9vw;
+    background-color: #FF9770;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+#Button {
+    background: none;
+    border: none;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.Profile-Pic {
+    border: 1px white solid;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    align-self: center;
+}
+
+/* button {
+   background: none;
+   border: none;
+} */
+
+.Pepe {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}

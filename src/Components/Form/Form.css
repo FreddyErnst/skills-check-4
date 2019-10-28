@@ -1,0 +1,33 @@
+.Form-Container {
+    height: 60vh;
+    width: 60vw;
+    border: 1px black solid;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-self: center;
+margin-left: 15vw;
+
+    
+
+    
+}
+
+.Form-Image {
+    height: 30vh;
+    width: 30vw;
+    border: solid black 1px;
+    display: flex;
+    align-self: center;
+    background-image: url("https://uwosh.edu/facilities/wp-content/uploads/sites/105/2018/09/no-photo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: 50%;
+
+
+}
+
+.Form-Container > button {
+    width: 50px;
+    margin-left: 700px;
+}
